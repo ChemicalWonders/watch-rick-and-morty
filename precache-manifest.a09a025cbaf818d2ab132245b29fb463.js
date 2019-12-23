@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7347dc2f2f5a62a78d405f22b76b45e4",
+    "revision": "25bb7c24e704d0808f4f4fefe14dd23e",
     "url": "/watch-rick-and-morty/index.html"
   },
   {
-    "revision": "e4580297fb6a73bb9154",
-    "url": "/watch-rick-and-morty/static/css/main.d1b05096.chunk.css"
+    "revision": "514d4b6b3ca9a4373a55",
+    "url": "/watch-rick-and-morty/static/css/main.7e4afc02.chunk.css"
   },
   {
     "revision": "78fc676c943bcbe6819d",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/watch-rick-and-morty/static/js/2.d908e115.chunk.js.LICENSE"
   },
   {
-    "revision": "e4580297fb6a73bb9154",
-    "url": "/watch-rick-and-morty/static/js/main.f96de2f2.chunk.js"
+    "revision": "514d4b6b3ca9a4373a55",
+    "url": "/watch-rick-and-morty/static/js/main.955a77bf.chunk.js"
   },
   {
     "revision": "6684bdebff234a991860",

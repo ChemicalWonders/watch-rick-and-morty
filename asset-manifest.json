@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/watch-rick-and-morty/static/css/main.d1b05096.chunk.css",
-    "main.js": "/watch-rick-and-morty/static/js/main.f96de2f2.chunk.js",
-    "main.js.map": "/watch-rick-and-morty/static/js/main.f96de2f2.chunk.js.map",
+    "main.css": "/watch-rick-and-morty/static/css/main.7e4afc02.chunk.css",
+    "main.js": "/watch-rick-and-morty/static/js/main.955a77bf.chunk.js",
+    "main.js.map": "/watch-rick-and-morty/static/js/main.955a77bf.chunk.js.map",
     "runtime-main.js": "/watch-rick-and-morty/static/js/runtime-main.5bdcac87.js",
     "runtime-main.js.map": "/watch-rick-and-morty/static/js/runtime-main.5bdcac87.js.map",
     "static/js/2.d908e115.chunk.js": "/watch-rick-and-morty/static/js/2.d908e115.chunk.js",
     "static/js/2.d908e115.chunk.js.map": "/watch-rick-and-morty/static/js/2.d908e115.chunk.js.map",
     "index.html": "/watch-rick-and-morty/index.html",
-    "precache-manifest.f21342e09674eca6cd1c81f9baffd1e3.js": "/watch-rick-and-morty/precache-manifest.f21342e09674eca6cd1c81f9baffd1e3.js",
+    "precache-manifest.a09a025cbaf818d2ab132245b29fb463.js": "/watch-rick-and-morty/precache-manifest.a09a025cbaf818d2ab132245b29fb463.js",
     "service-worker.js": "/watch-rick-and-morty/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/watch-rick-and-morty/static/css/main.d1b05096.chunk.css.map",
+    "static/css/main.7e4afc02.chunk.css.map": "/watch-rick-and-morty/static/css/main.7e4afc02.chunk.css.map",
     "static/js/2.d908e115.chunk.js.LICENSE": "/watch-rick-and-morty/static/js/2.d908e115.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.5bdcac87.js",
     "static/js/2.d908e115.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.f96de2f2.chunk.js"
+    "static/css/main.7e4afc02.chunk.css",
+    "static/js/main.955a77bf.chunk.js"
   ]
 }
